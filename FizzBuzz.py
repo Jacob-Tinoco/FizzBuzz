@@ -1,3 +1,4 @@
+#puede cambiar el número en valores para verificar FizzBuzz
 valores = [15]
 
 def FizzBuzz(valores):
