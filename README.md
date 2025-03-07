@@ -19,7 +19,9 @@ Ejecuta el archivo utilizando un intérprete de Python.
 Al ejecutar el código, se espera ver la salida "FizzBuzz" para el valor 15, ya que es múltiplo de 3 y 5, pueden modificar el número de la lista "Valores" para probar diferentes números.
 
 ## Autores
-Jacob Tinoco - [Jacob-Tinoco](https://github.com/Jacob-Tinoco)
+Jacob Tinoco - [Jacob-Tinoco (Github)](https://github.com/Jacob-Tinoco).
+
+Portafolio profesional - [Jacob-Tinoco (portafolio)](https://github.com/Jacob-Tinoco).
 
 ## Licencia
 Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo LICENSE para más detalles.
