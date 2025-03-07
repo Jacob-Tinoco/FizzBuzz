@@ -1,7 +1,8 @@
 # Prueba Técnica - FizzBuzz
 
-## Versión 1.0
+## Versión 2.0
 Este repositorio contiene la implementación de código para resolver "FizzBuzz" en Python, donde al procesar el número en la lista "valores".
+Aqui hubo correciónes de corrección de indentación.
 Los invito aexplorar los demas proyectos de mi repositorio.
 
 ## Descripción del Proyecto
