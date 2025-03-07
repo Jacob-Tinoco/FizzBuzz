@@ -3,6 +3,11 @@
 ## Versión 1.0
 Este repositorio contiene la implementación de código para resolver "FizzBuzz" en Python, donde al procesar el número en la lista "valores".
 Los invito aexplorar los demas proyectos de mi repositorio.
+- Funciona ingresando un número a la vez.
+
+## Version 2.0
+Aqui se realizaron correcciónes de indentación.
+- Funciona ingresando N números dentro de la lista "valores"
 
 ## Descripción del Proyecto
 El código verifica cada número en una lista para determinar si es múltiplo de 3, de 5, o de ambos. Dependiendo de la condición, imprime "Fizz", "Buzz" o "FizzBuzz", respectivamente. Si el número no cumple ninguna de las condiciones, se retorna el número mismo.
